@@ -50,7 +50,7 @@
 
 * JetBrain's ToolBox：安装全家桶
 
-* iTerm2: <https://www.iterm2.com/>
+* iTerm2: <https://www.iterm2.com/>; theme: <https://github.com/mbadolato/iTerm2-Color-Schemes>
 
 * Alfred: <https://www.alfredapp.com/>
 
