@@ -34,6 +34,8 @@
 
   * iftop
 
+  * macVim
+
   * nginx
 
   * openssl
